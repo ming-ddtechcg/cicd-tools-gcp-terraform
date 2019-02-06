@@ -1,3 +1,5 @@
+# Creates a GKE cluster
+
 variable "master_user" {}
 variable "master_pass" {}
 
