@@ -1,3 +1,5 @@
+# Defining pod & policy for a node.js hellow-world app
+
 locals {
   port = "5000"
   app  = "app"
