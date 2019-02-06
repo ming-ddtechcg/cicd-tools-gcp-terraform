@@ -1,3 +1,5 @@
+# Defining pod & policy for sonar
+
 resource "kubernetes_deployment" "sonar" {
   metadata {
     name = "sonar"
