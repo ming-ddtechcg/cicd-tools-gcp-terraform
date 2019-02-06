@@ -1,3 +1,5 @@
+# Defining google/kubernetest providers
+
 variable "project" {}
 variable "region" {}
 variable "zone" {}
