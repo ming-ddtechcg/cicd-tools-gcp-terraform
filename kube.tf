@@ -1,4 +1,4 @@
-# Creates a GKE cluster
+# Creates a GKE cluster with KUBECONFIG
 
 variable "master_user" {}
 variable "master_pass" {}
