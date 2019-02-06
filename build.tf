@@ -1,3 +1,5 @@
+# Build server - Jenkins Docker container on GCP VM
+
 variable "app_repo" {}
 variable "size" {}
 variable "public_key" {}
